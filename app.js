@@ -2,5 +2,5 @@
 
 var connector = new builder.ConsoleConnector().listen();
 var bot = new builder.UniversalBot(connector, function (session) {
-    session.send("You said: %s", session.message.text);
+    session.send("You said1: %s", session.message.text);
 });
