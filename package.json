@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/riyaselokar/Testbot01#readme",
   "dependencies": {
-    "botbuilder": "^3.14.1"
+    "botbuilder": "^3.14.1",
+    "restify": "^7.1.1"
   }
 }
